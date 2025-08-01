@@ -1,6 +1,6 @@
 # Multi-User Support in OpenHands
 
-This document describes the multi-user support feature in OpenHands, which allows multiple users to use the same OpenHands instance with their own isolated data.
+This document describes the multi-user support feature in OpenHands, which allows multiple users to use the same OpenHands instance with their own isolated data and configurations.
 
 ## Overview
 
